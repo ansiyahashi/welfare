@@ -1,0 +1,135 @@
+[18-Oct-2021 10:38:34 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/ApiController.php on line 17
+[22-Oct-2021 12:24:48 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\API\ApiController as ApiController because the name is already in use in /home1/truelane/public_html/najahat.adoxapp.com/routes/api.php on line 10
+[22-Oct-2021 12:33:00 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\API\ApiController as ApiController because the name is already in use in /home1/truelane/public_html/najahat.adoxapp.com/routes/api.php on line 10
+[11-Nov-2021 05:50:58 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SurveyController::index() in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/SurveyController.php on line 106
+[25-Nov-2021 05:17:58 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 16
+[25-Nov-2021 05:17:58 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 16
+[25-Nov-2021 05:18:24 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 16
+[25-Nov-2021 05:18:24 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 16
+[25-Nov-2021 05:18:24 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 16
+[25-Nov-2021 05:18:25 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 16
+[25-Nov-2021 05:19:48 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 2
+[25-Nov-2021 05:19:48 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/truelane/public_html/najahat.adoxapp.com/app/Http/Controllers/API/FMRController.php on line 2
+[05-Dec-2022 04:06:14 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:24 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:44 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:46 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:52 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:52 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:06:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:07:20 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:07:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:07:37 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:07:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:07:43 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:07:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:00 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:00 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:19 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:22 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:32 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:08:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:09:17 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:09:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:12:28 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:12:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:14:27 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:14:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:14:29 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:14:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:14:30 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:14:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:17:17 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:17:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:18:43 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:18:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:18:50 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:18:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:19:27 UTC] PHP Warning:  require_once(/home2/adoxamuf/public_html/apps/Liter/public/index.php): Failed to open stream: No such file or directory in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[05-Dec-2022 04:19:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adoxamuf/public_html/apps/Liter/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/adoxamuf/public_html/apps/Liter/server.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/adoxamuf/public_html/apps/Liter/server.php on line 21
+[13-Dec-2022 06:52:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/adoxamuf/public_html/apps/Liter/app/Http/Controllers/API/FMRController.php on line 264
+[01-Feb-2023 05:27:04 UTC] PHP Fatal error:  Cannot declare class Modules\Transaction\Http\Controllers\ReportController, because the name is already in use in /home2/adoxamuf/public_html/apps/Adnoc/app/Http/Controllers/ReportController.php on line 0
+[01-Feb-2023 05:27:06 UTC] PHP Fatal error:  Cannot declare class Modules\Transaction\Http\Controllers\ReportController, because the name is already in use in /home2/adoxamuf/public_html/apps/Adnoc/app/Http/Controllers/ReportController.php on line 0
+[01-Feb-2023 05:27:07 UTC] PHP Fatal error:  Cannot declare class Modules\Transaction\Http\Controllers\ReportController, because the name is already in use in /home2/adoxamuf/public_html/apps/Adnoc/app/Http/Controllers/ReportController.php on line 0
+[01-Feb-2023 05:27:08 UTC] PHP Fatal error:  Cannot declare class Modules\Transaction\Http\Controllers\ReportController, because the name is already in use in /home2/adoxamuf/public_html/apps/Adnoc/app/Http/Controllers/ReportController.php on line 0
+[01-Feb-2023 05:32:10 UTC] PHP Fatal error:  Cannot declare class Modules\Transaction\Http\Controllers\ReportController, because the name is already in use in /home2/adoxamuf/public_html/apps/Adnoc/app/Http/Controllers/ReportController.php on line 0
+[03-Feb-2023 10:48:24 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ReportController::complete_report() in /home2/adoxamuf/public_html/apps/Adnoc/app/Http/Controllers/ReportController.php on line 51
+[04-Feb-2023 05:25:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ReportController::gain_loss_report() in /home2/adoxamuf/public_html/apps/Adnoc/app/Http/Controllers/ReportController.php on line 107
